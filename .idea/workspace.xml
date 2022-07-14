@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50225370-6f2b-474a-a3e9-01f78fe30532" name="Changes" comment="Added Welcome msg">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="50225370-6f2b-474a-a3e9-01f78fe30532" name="Changes" comment="Created Board">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/brigdlabz/game/TicTacToeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brigdlabz/game/TicTacToeGame.java" afterDir="false" />
     </list>
@@ -89,5 +88,20 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Welcome msg" />
     <option name="LAST_COMMIT_MESSAGE" value="Added Welcome msg" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/brigdlabz/game/TicTacToeGame.java</url>
+          <line>4</line>
+          <properties class="com.brigdlabz.game.TicTacToeGame" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
